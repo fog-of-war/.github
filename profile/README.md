@@ -155,8 +155,6 @@
 ## Contact  us
 
 
-
-<br>
-🎨 피그마 
+이메일 : fogofseoul@gmail.com
 
 
