@@ -51,25 +51,86 @@
 
 ![https://user-images.githubusercontent.com/68121478/275764517-02549a3d-03a4-4fe3-bd19-933f4ffde006.png](https://user-images.githubusercontent.com/68121478/275764517-02549a3d-03a4-4fe3-bd19-933f4ffde006.png)
 
+
+
+
+### PM
+
+<table>
+  <tr>
+    <th>이수현</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/limeorange">
+        <img src="https://avatars.githubusercontent.com/u/78308684?v=4" alt="이수현" width="150" height="150">
+      </a>
+    </td>   
+  </tr>
+</table>
+
+
 ### 프론트엔드
 
-https://github.com/KimDongGyun1
-https://github.com/limeorange
-https://github.com/sossost
-https://github.com/H0onnn
+<table>
+  <tr>
+    <th>김동균</th>
+    <th>장윤수</th>
+    <th>임정훈</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/KimDongGyun1">
+        <img src="https://avatars.githubusercontent.com/u/71059445?v=4" alt="김동균" width="150" height="150">
+      </a>
+    </td>   
+    <td>
+      <a href="https://github.com/sossost">
+        <img src="https://avatars.githubusercontent.com/u/110542210?v=4" alt="장윤수" width="150" height="150">
+      </a>
+    </td>    
+    <td>
+      <a href="https://github.com/H0onnn">
+        <img src="https://avatars.githubusercontent.com/u/116232939?v=4" alt="임정훈" width="150" height="150">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 백엔드
 
-https://github.com/YubinShin
+<table>
+  <tr>
+    <th>이수현</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/YubinShin">
+        <img src="https://avatars.githubusercontent.com/u/68121478?v=4" alt="신유빈" width="150" height="150">
+      </a>
+    </td>   
+  </tr>
+</table>
+
 
 ### 안드로이드
 
-https://github.com/YubinShin
+<table>
+  <tr>
+    <th>신유빈</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/YubinShin">
+        <img src="https://avatars.githubusercontent.com/u/68121478?v=4" alt="신유빈" width="150" height="150">
+      </a>
+    </td>   
+  </tr>
+</table>
 
 -----
 
 ## Contact  us
-
 
 
 📔 노션 [https://www.notion.so/d07b2a88224d4d90a47269eaaa7ec66c](https://www.notion.so/0209274b3bd940d6bae513461bac9f30)
