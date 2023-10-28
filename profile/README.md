@@ -52,6 +52,20 @@
 
 ![https://user-images.githubusercontent.com/68121478/275764517-02549a3d-03a4-4fe3-bd19-933f4ffde006.png](https://user-images.githubusercontent.com/68121478/275764517-02549a3d-03a4-4fe3-bd19-933f4ffde006.png)
 
+### 프론트엔드
+
+https://github.com/KimDongGyun1
+https://github.com/limeorange
+https://github.com/sossost
+https://github.com/H0onnn
+
+### 백엔드
+
+https://github.com/YubinShin
+
+### 안드로이드
+
+https://github.com/YubinShin
 
 -----
 
