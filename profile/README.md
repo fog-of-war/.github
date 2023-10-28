@@ -51,6 +51,42 @@
 
 ![https://user-images.githubusercontent.com/68121478/275764517-02549a3d-03a4-4fe3-bd19-933f4ffde006.png](https://user-images.githubusercontent.com/68121478/275764517-02549a3d-03a4-4fe3-bd19-933f4ffde006.png)
 
+<table>
+  <tr>
+    <th>팀노션</th>
+    <th>피그마</th>
+    <th>프론트엔드 저장소 </th>
+    <th>백엔드 저장소</th>
+    <th>안드로이드 저장소</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.notion.so/d07b2a88224d4d90a47269eaaa7ec66c">
+        <img src="https://github.com/fog-of-war/.github/assets/68121478/1f497990-9fda-4f10-aced-da63e6787d6e" alt="notion" width="100" height="100">
+      </a>
+    </td>   
+    <td>
+      <a href="https://www.figma.com/file/mH3hoUOZj0pMhCfj5qqgle/%EC%A0%84%EC%9E%A5%EC%9D%98%EC%95%88%EA%B0%9C?type=design&node-id=0-1&mode=design">
+        <img src="https://github.com/fog-of-war/.github/assets/68121478/a7ebfc7b-29ab-4ff1-b56f-39a080f2a1e5" alt="figma" width="100" height="100">
+      </a>
+    </td>    
+    <td>
+      <a href="https://github.com/fog-of-war/dev-fe">
+        <img src="https://github.com/fog-of-war/.github/assets/68121478/93c95f72-15d4-450e-acd8-c052550254ca" alt="dev-fe" width="100" height="100">
+      </a>
+    </td>
+        <td>
+      <a href="https://github.com/fog-of-war/dev-be">
+        <img src="https://github.com/fog-of-war/.github/assets/68121478/93c95f72-15d4-450e-acd8-c052550254ca" alt="dev-be" width="100" height="100">
+      </a>
+    </td>
+        <td>
+      <a href="https://github.com/fog-of-war/dev-andriod">
+        <img src="https://github.com/fog-of-war/.github/assets/68121478/93c95f72-15d4-450e-acd8-c052550254ca" alt="dev-android" width="100" height="100">
+      </a>
+    </td>
+  </tr>
+</table>
 
 -----
 
@@ -119,8 +155,8 @@
 ## Contact  us
 
 
-📔 노션 [https://www.notion.so/d07b2a88224d4d90a47269eaaa7ec66c](https://www.notion.so/0209274b3bd940d6bae513461bac9f30)
+
 <br>
-🎨 피그마 [https://www.figma.com/file/mH3hoUOZj0pMhCfj5qqgle/%EC%A0%84%EC%9E%A5%EC%9D%98%EC%95%88%EA%B0%9C?type=design&node-id=0%3A1&mode=design&t=7Z4wmzU1e4m2V8Rw-1](https://www.figma.com/file/mH3hoUOZj0pMhCfj5qqgle/%EC%A0%84%EC%9E%A5%EC%9D%98%EC%95%88%EA%B0%9C?type=design&node-id=0-1&mode=design)
+🎨 피그마 
 
 
