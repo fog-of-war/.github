@@ -54,7 +54,7 @@
 
 
 
-### PM
+### PM & Design
 
 <table>
   <tr>
@@ -70,8 +70,7 @@
 </table>
 
 
-### 프론트엔드
-
+### FrontEnd
 <table>
   <tr>
     <th>김동균</th>
@@ -97,23 +96,7 @@
   </tr>
 </table>
 
-### 백엔드
-
-<table>
-  <tr>
-    <th>이수현</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/YubinShin">
-        <img src="https://avatars.githubusercontent.com/u/68121478?v=4" alt="신유빈" width="150" height="150">
-      </a>
-    </td>   
-  </tr>
-</table>
-
-
-### 안드로이드
+### BackEnd & Android
 
 <table>
   <tr>
@@ -127,6 +110,7 @@
     </td>   
   </tr>
 </table>
+
 
 -----
 
