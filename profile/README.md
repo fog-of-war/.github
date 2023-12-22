@@ -3,15 +3,15 @@
 
 <table>
  <tr>
-<!--     <th>원스토어 다운로드</th> -->
+    <th>원스토어 다운로드</th>
     <th>웹사이트 바로가기</th>
   </tr>
   <tr>
-<!--     <td>
-      <a href="#">
+    <td>
+      <a href="https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000772388&scYn=Y">
         <img src="https://github.com/fog-of-war/.github/assets/68121478/e5e0ae3c-59ec-409b-8adf-f28f0c5442f7" alt="전장의 안개 원스토어" width="150" height="150">
       </a>
-    </td> -->
+    </td>
     <td>
       <a href="https://www.yubinhome.com/">
         <img src="https://github.com/fog-of-war/.github/assets/68121478/0f763388-67d9-476c-87e5-657910451a87" alt="전장의 안개 원스토어" width="150" height="150">
