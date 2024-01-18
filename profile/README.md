@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://www.notion.so/d07b2a88224d4d90a47269eaaa7ec66c">
+      <a href="https://sapienslee.notion.site/4149d1e98dfb41db92be5181eb4b0758?pvs=4">
         <img src="https://github.com/fog-of-war/.github/assets/68121478/1f497990-9fda-4f10-aced-da63e6787d6e" alt="notion" width="100" height="100">
       </a>
     </td>   
